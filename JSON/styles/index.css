@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#tag{
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+#book-info{
+    margin-top: 50px;
+    border: 5px solid black;
+    width: 50%;
+    height: 400px;
+}
